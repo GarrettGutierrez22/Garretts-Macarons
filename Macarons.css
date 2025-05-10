@@ -100,7 +100,7 @@ body {
    
 }
 
-@media (max-width: 920px) {
+@media (max-width: 968px) {
   .hide {
     display: none;
   }
