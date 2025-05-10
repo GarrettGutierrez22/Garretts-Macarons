@@ -89,7 +89,7 @@ body {
 .image-text {
 	font-size: 100px;
   font-weight: 900;
-  background-image: url('Photos/Macaron4.jpg'); 
+  background-image: url('Photos/macaron4.jpg'); 
   background-size: 110%;
   background-repeat: no-repeat;
   background-position: center;
@@ -100,7 +100,11 @@ body {
    
 }
 
-
+@media (max-width: 768px) {
+  .hide {
+    display: none;
+  }
+}
 
 
 
